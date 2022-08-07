@@ -2,6 +2,9 @@
 ratings.csv
 movies_metadata.csv
 config.py
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
