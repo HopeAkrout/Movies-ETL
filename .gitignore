@@ -5,6 +5,9 @@ config.py
 ETL_Deliverable1_starter_code.ipynb
 ETL_Deliverable2_starter_code.ipynb
 ETL_Deliverable3_starter_code.ipynb
+wikipedia_movies.json
+movies_metadata.csv
+Movies-ETL/Resources/ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
