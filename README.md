@@ -7,7 +7,7 @@ The original process can be seen in "Movies-ETL Practice.ipynb."  Scraped Wikipe
 
 In this project, I was tasked with creating an automated pipeline to continue adding to the database daily.
 
-##Process
+## Process
 
 The ETL_function_test.ipynb was created as the first step.  This process opens and reads the data then converts the three different datasets into data frames.
 
